@@ -352,18 +352,7 @@ body {
   margin-left: 40px;
 }
 
-/* .join-in-title {
-  margin-left: 40px;
-  color: #ffffff;
-  text-decoration: none;
-  text-align: left;
-  margin-bottom: 20px;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
 
-} */
 
 .join-in-list {
   display: flex;
@@ -412,10 +401,6 @@ body {
   height: 20px;
 }
 
-/* .join-in-link:hover,
-.join-in-link:focus {
-  fill: #000000;
-  background: #fb6d3a;
-} */
+
 
 /* the end */
